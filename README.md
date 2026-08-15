@@ -1,6 +1,6 @@
 # 📊 Benchmark Competitivo — Shop and Travel
 
-> ⚠️ Projeto de portfólio, sem vínculo com as empresas citadas. Os preços e benefícios dos concorrentes foram levantados via pesquisa própria em sites oficiais e > podem não refletir valores atuais — o objetivo aqui é demonstrar a metodologia de análise, não servir como fonte de preços em tempo real.
+> ⚠️ Projeto de portfólio, sem vínculo com as empresas citadas. Os preços e benefícios dos concorrentes foram levantados via pesquisa própria em sites oficiais e podem não refletir valores atuais — o objetivo aqui é demonstrar a metodologia de análise, não servir como fonte de preços em tempo real.
 
 ## Objetivo
 
