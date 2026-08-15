@@ -49,9 +49,6 @@ Dashboard de benchmark competitivo para os produtos de viagem da Nomad (eSIM, se
 **Visão Geral**
 ![Visão Geral](imagens/visao-geral.png)
 
-![image](<img width="1506" height="842" alt="image" src="https://github.com/user-attachments/assets/75286eca-b3d1-4649-955b-f3d7c0bb96b7" />)
-
-
 **Conectividade (eSIM)**
 ![Conectividade](imagens/conectividade.png)
 
