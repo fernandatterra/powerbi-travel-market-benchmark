@@ -14,22 +14,22 @@ Dashboard de benchmark competitivo para os produtos de viagem da Nomad (eSIM, se
 
 ## Estrutura do Dashboard
 
-### Visão Geral
+### 1. Visão Geral
 - KPIs de posicionamento: Preço Nomad, Preço Médio de Mercado, Economia vs. Mercado e Posição no Benchmark
 - Comparativo de preço por concorrente, navegável por categoria de produto (Conectividade, Ecossistema, Seguro Viagem)
 
-### Conectividade (eSIM)
+### 2. Conectividade (eSIM)
 - Nota x Preço dos concorrentes de eSIM (Airalo, Holafly, Saily, Ubigi)
 - Comparativo de benefícios do Nomad Chip vs. mercado (dados, app próprio, integração)
 - Estrutura de benefício escalonado (GB liberados conforme relacionamento com o cliente)
 - Tabela comparativa de atributos por concorrente
 
-### Seguro & Ecossistema
+### 3. Seguro & Ecossistema
 - Comparativo de preço do seguro viagem por concorrente
 - Detalhamento da oferta Assist Card via Nomad (preço, desconto, atendimento)
 - Tabela comparativa de benefícios por conta (sala VIP, cashback, cartão físico, pontos, seguro e eSIM integrados)
 
-### Visão de Produto
+### 4. Visão de Produto
 - Oportunidades de produto identificadas (cross-sell no seguro, economia do bundle, força do ecossistema)
 - Jornada do cliente mapeada (conta → dólar → passagem → seguro → eSIM → retorno)
 - Hipóteses a testar, com métrica e método sugeridos para cada uma
